@@ -90,10 +90,16 @@ Feel free to fork, reuse, or contribute.
 
 🏷️ Tags
 Power BI 
+
 E-Commerce 
+
 Nykaa Data 
+
 Analytics 
+
 Price Buckets 
+
 DAX Dashboard
+
 ---
 
