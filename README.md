@@ -88,7 +88,8 @@ Made with ❤️ by Sumalatha Gaddipati
 Feel free to fork, reuse, or contribute.
 
 
-🏷️ Tags
+## 🏷️ Tags
+
 Power BI 
 
 E-Commerce 
